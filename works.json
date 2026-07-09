@@ -1,9 +1,9 @@
 {
-  "artistName": "Your Name",
-  "tagline": "Sculpture & mixed media",
+  "artistName": "Weronika Król",
+  "tagline": "New Media Art",
   "about": "Write a couple of sentences about yourself and your practice here. This shows on the About page — edit it in works.json.",
-  "email": "you@example.com",
-  "instagram": "",
+  "email": "weronikawkrol@gmail.com",
+  "instagram": "@weronika.miriam.krol/",
   "works": [
     {
       "slug": "scribble-carriers",
