@@ -1,0 +1,257 @@
+{
+  "artistName": "Weronika Król",
+  "tagline": "new media artist",
+  "about": " Weronika Miriam Król is a visual artist and graphic designer. Her artistic practice centers around interactive media and generative animation. Through her work, she examines the shifting state of our environment, seeking out new, symbiotic models of coexistence in the face of the climate crisis.",
+  "artistStatement": "I work at the point where the natural and the artificial stop being opposites. Using interactive media and generative animation built in real time, I try to picture what a relationship with the more-than-human beings can still look like in a world that has already moved past the point of return. Not as a warning or a lesson — I'm less interested in explaining the climate crisis than in sitting inside the feeling of it: the strange intimacy of living alongside things we've damaged, depend on, and can't quite let go of.\n\nRepetition runs through almost everything I make, less as a formal device than as a kind of truth about how that damage is lived — in loops, cycles, and returns that never fully resolve. I'm drawn to processes that behave the same way: materials that keep transforming after they leave my hands, images that fade or dissolve as soon as they're made. Nothing in the work stays fixed long enough to become a clean statement — it keeps happening, the way a season keeps happening, or a habit does.\n\nWhat I seek, ultimately, is a kind of acknowledgment — closer to Timothy Morton's notion of the mesh than to any romantic ideal of restored harmony: that the human, the organic, and the technological are already entangled beyond separating, bound by interdependence, complicity, and shared vulnerability. The work doesn't offer a resolution to that entanglement, nor does it aim to diagnose or instruct. It simply stages the tangle as an ongoing condition — something to keep returning to, rather than conclude.",
+  "exhibitions": [
+    "2026 — group exhibition, [...], installation, Wroclaw",
+    "2026 — solo exhibition, future belongs to ghosts, installation, Concordia Design Wrocław, Wroclaw",
+    "2025 — studencki przegląd małych form filmowych / 45 Warszawskie Spotkania Teatralne, short film, Warsaw",
+    "2025 — group exhibition, Masa Krytyczna, audiovisual performance and installation, Wroclaw",
+    "2025 — winners' exhibition, 23rd Graduation Projects Review, installation, Łódź Design Festival, Łódź",
+  "2025 — group exhibition, International Graduation Projects Review, installation, Zamek Cieszyn, Cieszyn",
+    "2025 — group exhibition, „Design 32” – The Best Design Diplomas of the Academies of Fine Arts 2024, installation, Rondo Sztuki Gallery, Katowice",
+    "2025 — group exhibition, „Interpretacje z cyklu Inna Historia”, installation, Galeria za Szkłem, Wroclaw",
+    "2025 — short film screening, „Inna Historia – Oparta na Faktach”, video, Kino Nowe Horyzonty, Wroclaw",
+    "2024 — group exhibition, „Czwarta Przyroda”, installation, Rondo Sztuki Gallery, Katowice",
+    "2023 — group exhibition, „Czułe Organizmy” as part of Śląski Festiwal Nauki, installation, International Congress Centre, Katowice",
+    "2023 — group exhibition, „Katowicka moderna”, poster, Market Square, Katowice",
+    "2023 — animated film screening, „Drzwi Zamknięte”, 3d animation, „Inny Świat” Gallery, Tarnowskie Góry",
+    "2023 — group exhibition, „Tootsie”, poster, Teatr Rozrywki, Chorzów",
+    "2023 — group exhibition, „Anatomia roślin”, zine, Minus Jeden Gallery, Katowice",
+    "2023 — „Żywioły - występ młodych choreografów”, multimedia projection, Wrocław Opera, Wroclaw",
+    "2022 — group exhibition, „Cache_money”, 3d animation, Norman Rea Gallery, Derwent College York, England"
+  ],
+  "email": "weronikawkrol@gmail.com",
+  "instagram": "https://www.instagram.com/weronika.miriam.krol/",
+  "works": [
+    {
+      "slug": "every morning I wake up with blue PET",
+      "title": "every morning I wake up with blue PET",
+      "year": "2026",
+      "medium": "melted plastics bottles,plexiglass, textiles",
+      "dimensions": "3,30 × 2,20 × 2,70 m",
+      "description": "every morning I wake up with blue PET is an attempt to understand the ambivalent human relationship with plastic—a tension born between the awareness of its toxicity and its indispensability in everyday life.The key to understanding this matter lies in its plasticity, defined by Catherine Malabou as a mechanism of explosive transformation where destruction drives evolution. The installation translates this process into a speculative vision of a new organicity, where the title PET rejects its assigned passivity, transforming into a fully fledged organism and a companion of daily existence.",
+      "images": [
+        "images/pet/1.jpg",
+        "images/pet/2.jpg",
+        "images/pet/pion.jpg",
+        "images/pet/4.jpg",
+        "images/pet/3.jpg",
+        "images/pet/1noc.jpg",
+        "images/pet/2noc.jpg"
+      ],
+      "videoUrl": "",
+      "videoLabel": "PET – video documentation"
+    },
+    {
+      "slug": "cinnamon-oatmeal-gochujang-cucumber",
+      "title": "cinnamon, oatmeal, gochujang, cucumber, cinnamon, oatmeal, gochujang, cucumber",
+      "year": "2025",
+      "medium": "textile object",
+      "dimensions": "2 × 1 m",
+      "description": "Life is a dishrag, wiping away consecutive days. Three months of erasing the stains of the exact same food. The gesture halts time for a split second, yet the loop remains unbroken. I keep eating the same thing. Yesterday is today. If everything looks identical, why bother remembering?",
+      "images": [
+        "images/szmata/1.jpg",
+        "images/szmata/2.jpg",
+        "images/szmata/3.jpg",
+        "images/szmata/4.jpg",
+        "images/szmata/5.jpg"
+      ],
+      "videoUrl": "https://youtu.be/53ClI850TnI?si=QamPAaqbLCg8NlVu",
+      "videoLabel": "pet"
+    },
+    {
+      "slug": "anti",
+      "title": "antibiosis: plant navigation interfaces",
+      "year": "2024",
+      "medium": "interactive  installation",
+      "dimensions": "dimensions variable",
+      "description": "A multisensory experience exploring the relationships between plants and humans through interactive interfaces. The project addresses the human exploitation of plants and proposes a symbiotic vision of coexistence, engaging the viewer's sight, hearing, and touch.",
+      "images": [
+        "images/anty/1.jpg",
+        "images/anty/2.jpg",
+        "images/anty/3.jpg",
+        "images/anty/4.jpg",
+        "images/anty/5.jpg",
+        "images/anty/6.jpg",
+        "images/anty/7.jpg"
+      ],
+      "videoUrl": "https://youtu.be/51GbNfQ78cM?si=z6p8c6oNs9RbZ5g2",
+      "videoLabel": "watch antibiosis on yt"
+    },
+    {
+      "slug": "fbtg",
+      "title": "future belongs to ghosts",
+      "year": "2026",
+      "medium": "thermal paper print, wooden frame + [(optional) live audiovisual performance]",
+      "dimensions": "frame: 150 × 120 × 50 cm (H × W × D); graphics: 13 × 1 m",
+      "description": "Future belongs to ghosts features thermal-paper prints of 40 endangered plant species from the Polish Red Data Book of Plants. Mimicking everyday receipts, the graphics gradually fade after printing, creating a hauntological space where images persist only as vanishing traces between presence and absence. The installation is extended by a Live AV Performance, where digital scans of plants are manipulated in real time via audio generated live in Sonic Pi.",
+      "images": [
+        "images/paragon/1.jpg",
+        "images/paragon/2.jpg",
+        "images/paragon/3.jpg",
+        "images/paragon/4.jpg",
+        "images/paragon/5.jpg",
+        "images/paragon/6.jpg",
+        "images/paragon/7.jpg"
+      ],
+      "videoUrl": "https://youtu.be/eCamegwQkfo",
+      "videoLabel": "future"
+    },
+    {
+      "slug": "spectre",
+      "title": "spectre",
+      "year": "2025",
+      "medium": "installation",
+      "description": "The work addresses the themes of absence and invisibility within the context of mass species extinction. It confronts human indifference toward environmental degradation, visualising vanishing processes that remain entirely unnoticed in ordinary daily experience.",
+      "images": [
+        "images/spectre/1.jpg",
+        "images/spectre/2.jpg",
+        "images/spectre/3.jpg",
+        "images/spectre/4.jpg"
+      ],
+      "videoUrl": "https://youtu.be/kJWjswMY1NY",
+      "videoLabel": "spectre"
+    },
+    {
+      "slug": "loop",
+      "title": "loop",
+      "year": "2025",
+      "medium": "experimental video also in form of interactive installation",
+     "description": "The work functions in two forms: as an experimental video and as an interactive installation. The project analyses digital everyday life as a loop of routine, where any attempt to escape leads only to a deeper sense of alienation within the digital realm. This reflection on the state of detachment is complemented and deepened by excerpts from Fernando Pessoa's The Book of Disquiet.",
+      "images": [
+        "images/loop/1.jpg",
+        "images/loop/2.jpg",
+        "images/loop/4.jpg",
+        "images/loop/3.jpg"
+      ],
+      "videoUrl": "https://youtu.be/NFjO9xCjv_w",
+      "videoLabel": "loop"
+    },
+    {
+      "slug": "rel",
+      "title": "relations of origin",
+      "year": "2026",
+      "medium": "video",
+     "description": "Exploring the close relationship between sound and image. The audio is composed in Sonic Pi, while the visuals are generated in TouchDesigner,",
+      "images": [
+        "images/or/1.jpg",
+        "images/or/2.jpg",
+        "images/or/3.jpg",
+        "images/or/4.jpg",
+        "images/or/5.jpg"
+      ],
+       "videoUrl": "https://youtu.be/9qAQM4HRnFs",
+      "videoLabel": "or"
+    },
+    {
+      "slug": "con",
+      "title": "convergence1",
+      "year": "2025",
+      "medium": "av performance",
+     "description": "An audiovisual performance presenting a fusion of biology and technology. The project creates a temporary, hybrid ecosystem where natural structures intertwine and coalesce with digital algorithms.",
+      "images": [
+        "images/con/1.jpg",
+        "images/con/5.jpg",
+        "images/con/2.jpg",
+        "images/con/3.jpg",
+        "images/con/4.jpg"
+      ],
+      "videos": [
+        { "url": "https://youtu.be/nDqWESe04GY", "label": "con1" },
+        { "url": "https://youtu.be/b_rLhoPIO1s", "label": "con2" }
+      ]
+    },
+    {
+      "slug": "con0",
+      "title": "convergence0",
+      "year": "2024",
+      "medium": "video",
+     "description": "An audiovisual performance presenting a fusion of biology and technology. The project creates a temporary, hybrid ecosystem where natural structures intertwine and coalesce with digital algorithms.",
+      "images": [
+        "images/con1/1.jpg",
+        "images/con1/2.jpg",
+        "images/con1/3.jpg",
+        "images/con1/4.jpg"
+      ],
+      "videoUrl": "https://youtu.be/7C6S20NGoZ4",
+      "videoLabel": "or1"
+    },
+    {
+      "slug": "tra",
+      "title": "traces of dancing",
+      "year": "2023",
+      "medium": "video",
+     "description": "A project based on processed archival footage of folk dances sourced from online repositories. Through digital manipulation, the video portrays human activity as a fleeting imprint, celebrating transience and the ephemeral nature of the gesture.",
+      "images": [
+        "images/trace/1.jpg",
+        "images/trace/2.jpg",
+        "images/trace/3.jpg",
+        "images/trace/4.jpg"
+      ],
+      "videoUrl": "https://vimeo.com/1054765540?share=copy&fl=cl&fe=ci",
+      "videoLabel": "tra"
+    },
+    {
+      "slug": "op",
+      "title": "transmission",
+      "year": "2023",
+      "medium": "animation for projection",
+     "description": "An animation made for Bartłomiej Malarz's choreography, presented during the Elements (Żywioły) choreographic evening at the Wrocław Opera. The central theme explores energy and interpersonal connections, portraying the human body as a receiver of impulses. Photos: Rafał Góral",
+      "images": [
+        "images/trans/1.jpg",
+        "images/trans/2.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=7Bd7oXAhk1g&t=3360s",
+      "videoLabel": "trans"
+    },
+    {
+      "slug": "ara",
+      "title": "archaic mother",
+      "year": "2025",
+      "medium": "3D animation",
+     "description": "The project explores the archetype of the Archaic Mother—a primal force that intertwines nurturance with destruction. Inspired by Barbara Creed's theory, the animation immerses the viewer inside an organic, claustrophobic structure from which they attempt to find a way out.",
+      "images": [
+        "images/ara/1.jpg",
+        "images/ara/2.jpg",
+        "images/ara/3.jpg",
+        "images/ara/4.jpg",
+        "images/ara/5.jpg",
+        "images/ara/6.jpg"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=mDV4NYbQ4Mg",
+      "videoLabel": "ara"
+    },
+    {
+      "slug": "graphics",
+      "title": "graphics",
+      "items": [
+        {
+          "image": "images/gra/1.jpg",
+          "title": "traces",
+          "year": "2025",
+          "medium": "linocut",
+          "dimensions": "95 × 35 cm",
+          "description": ""
+        },
+        {
+          "image": "images/gra/2.jpg",
+          "title": "osobliwość",
+          "year": "2024",
+          "medium": "etching",
+          "dimensions": "51 × 43,5 cm",
+          "description": ""
+        },
+        {
+          "image": "images/gra/3.jpg",
+          "title": "untitled",
+          "year": "2022",
+          "medium": "etching",
+          "dimensions": "42 × 32 cm",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

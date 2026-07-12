@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portfolio</title>
+<meta name="description" content="Artist portfolio">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<button id="navToggle" class="nav-toggle" aria-label="Open menu" aria-expanded="false">
+  <span></span><span></span><span></span>
+</button>
+
+<div class="page">
+  <div class="layout">
+    <aside id="sidebar" class="sidebar">
+      <a href="#/" class="section-label">Works</a>
+      <nav class="plain-worklist" id="worklist" aria-label="Works">
+        <!-- injected -->
+      </nav>
+    </aside>
+
+    <main id="main" class="main" tabindex="-1">
+      <!-- injected -->
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <a href="#/" class="footer-name"></a>
+    <nav class="footer-links">
+      <a href="#/about">About</a>
+      <a id="emailLink" href="#">Contact</a>
+      <a id="instaLink" href="#" target="_blank" rel="noopener" style="display:none;">Instagram</a>
+    </nav>
+  </footer>
+</div>
+
+<script src="app.js?v=6"></script>
+</body>
+</html>
